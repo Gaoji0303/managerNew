@@ -1,10 +1,10 @@
 server:
-    port: 8081 #?????8080
+    port: 8081
 spring:
     datasource:
         username: root
         password: Zxh@123456
-        url: jdbc:mysql://124.222.202.249:3306/newPro?useUnicode=true&allowPublicKeyRetrieval=true&useSSL=false&characterEncoding=utf8
+        url: jdbc:mysql://120.78.85.146:3306/newPro?useUnicode=true&allowPublicKeyRetrieval=true&useSSL=false&characterEncoding=utf8
         driver-class-name:  com.mysql.cj.jdbc.Driver
         type: com.alibaba.druid.pool.DruidDataSource
 
